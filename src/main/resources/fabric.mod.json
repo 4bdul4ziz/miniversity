@@ -1,12 +1,13 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "AAUA",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Miniversity",
+  "description": "This is a WIP project",
   "authors": [
-    "Me!"
+    "4bdul4ziz",
+    "AgentAss"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
